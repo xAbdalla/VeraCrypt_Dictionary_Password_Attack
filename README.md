@@ -45,9 +45,9 @@ Example:
     <img src="img/3.png" align="right" width="250">
     
         .
-        ├── TestFile.txt                # Example of Encrypted File
-        ├── logs.log                    # Log file with all attempted passwords
-        └── password.txt                # file with the right password if founded
+        ├── TestFile.txt    # Example of Encrypted File
+        ├── logs.log        # Log file with all attempted passwords
+        └── password.txt    # file with the right password if founded
 
 ## Features
 
