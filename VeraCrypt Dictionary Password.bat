@@ -1,14 +1,13 @@
 @echo off
 
-REM Created By: Abdallah NouR
-REM Uploaded in: 2023.02.21
+REM Created By: Abdallah Hamdy
 REM Github Repo: https://github.com/xAbdalla/VeraCrypt_Dictionary_Password_Attack
 
 SETLOCAL ENABLEDELAYEDEXPANSION
 Title VeraCrypt Dictionary Password Script By: Abdallah NouR ...
 cd %~dp0
 
-ECHO. & ECHO VeraCrypt Dictionary Password Script By: Abdallah NouR ... & ECHO. & ECHO.
+ECHO. & ECHO VeraCrypt Dictionary Password Script By: Abdallah Hamdy ... & ECHO. & ECHO.
 echo How to use:
 echo   [1] Put the script file in VeraCrypt folder
 echo   [2] Create a word list file (name it word.list) and put it in VeraCrypt folder
