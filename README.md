@@ -1,9 +1,9 @@
-<img src="img/volume.png" style="float: right;height: 64px" alt="icon"/>
+<img src="img/volume.png" align= "right" style="float: right;height: 64px" alt="icon"/>
 
 # VeraCrypt Dictionary Password Attack
 This batch script performs a dictionary (or a brute-force) attack on VeraCrypt encrypted volume files.
 
-<img src="img/logo.png" style="float: right;height: 95px" alt="icon"/>
+<img align= "right" src="img/logo.png" style="float: right;height: 95px" alt="icon"/>
 
 VeraCrypt is a free and open-source utility for on-the-fly encryption. The software can create a virtual encrypted disk that works just like a regular disk but within a file.
 You can download if from the <a href="https://www.veracrypt.fr/en/Downloads.html" target="_blank" rel="noopener noreferrer">**VeraCrypt Download Page**</a>.
@@ -13,7 +13,7 @@ You can download if from the <a href="https://www.veracrypt.fr/en/Downloads.html
 If you use an installer option, by default, it will be in `C:\Program Files\VeraCrypt`
 2. Create a word list file (name it `word.list`) and put it in VeraCrypt folder
 
-    <p style="text-align: center"><img src="img/1.png" alt=""></p>
+    <p align= "center" style="text-align: center"><img src="img/1.png" alt=""></p>
 
 3. Fill up the `word.list` with optional passwords\
 You can generate as many as you wish, but it will take more time to try all of them\
@@ -32,7 +32,7 @@ Example:
 5. Run the script file `VeraCrypt Dictionary Password.bat`
 6. Enter a valid VeraCrypt encrypted full path file and press `Enter`
    
-   <p style="text-align: center"><img src="img/2.png" alt=""></p>
+   <p align= "center" style="text-align: center"><img src="img/2.png" alt=""></p>
 
 7. If there are old log files (`logs.log` and `password.txt`) they will be renamed
 8. The log file `logs.log` is created beside the encrypted file
